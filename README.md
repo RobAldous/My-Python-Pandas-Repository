@@ -1,6 +1,6 @@
 ## Python Data Analysis Project
 
-This project was completed during a Data Technician bootcamp and focuses on using Python and pandas to explore, clean, and analyse retail and sales data.
+This project was completed during a Data Technician bootcamp and focuses on using Python and Pandas to explore, clean, and analyse retail and sales data.
 
 ### Key Skills Demonstrated
 
